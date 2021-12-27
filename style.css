@@ -1,0 +1,50 @@
+#head{
+    font-family: 'cookie' , cursive;
+    font-size: 48px;
+}
+
+body{
+    background-image: url('background op.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#line{
+    background-color: lightslategrey;
+    height: 0.5px;
+    width: 30%;
+}
+
+#label{
+    font-size: 25px;
+    border-radius: 2%;
+    width: 30%;
+}
+
+#back{
+    margin-left: 2%;
+    
+}
+
+#room_a{
+    height: 450px;
+}
+
+#room_b{
+    height: 400px;
+    width: 450px;
+}
+
+#room_c{
+    height: 450px;
+}
+
+#room_d{
+    height: 450px;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 60px;
+}
